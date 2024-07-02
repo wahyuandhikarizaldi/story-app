@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Share story with others in Story App!</string>
+    <string name="title_welcome_page">Welcome to Story App!</string>
+    <string name="title_signup_page">Register to share your story!</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="invalid_name">Please enter your name!</string>
+    <string name="invalid_email">Please enter a valid email!</string>
+    <string name="invalid_password">Password should be at least 8 characters!</string>
+    <string name="message_login_page">Please login first!</string>
+    <string name="title_login_page">Ready to share your story?</string>
+    <string name="logout">Logout</string>
+    <string name="no_image">Please enter an image!</string>
+    <string name="add_story">add story</string>
+    <string name="menu">menu</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="enter_description">Enter description</string>
+    <string name="upload">Upload</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="post_with_location">Post with location</string>
+    <string name="retry">retry</string>
+
+</resources>
