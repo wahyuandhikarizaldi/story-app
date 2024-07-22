@@ -19,10 +19,3 @@ App to share and discover stories from every users.
 ## Screenshots
 ![sorycollage1](https://github.com/wahyuandhikarizaldi/story-app/assets/113814423/896b148d-9f22-4977-b165-6c7c4c4f14c9)
 ![sorycollage2](https://github.com/wahyuandhikarizaldi/story-app/assets/113814423/4593f95f-b9bd-4c1c-b707-2f37a6e72cd2)
-
-
-## Getting Started
-1. Clone this repository
-2. Open the Project in your Android Studio
-3. Run the Project in your Android Studio
-   
